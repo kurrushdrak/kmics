@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/kmics/static/css/main.7ad41ccc.css",
+    "main.js": "/kmics/static/js/main.9edd79fd.js",
+    "static/js/787.bd9f348b.chunk.js": "/kmics/static/js/787.bd9f348b.chunk.js",
+    "static/media/IMG_1616.JPG": "/kmics/static/media/IMG_1616.13a75a1ef818bd26ee16.JPG",
+    "static/media/nss.jpg": "/kmics/static/media/nss.ebe73bb3b2ba411e90f4.jpg",
+    "static/media/kmicslogo.jpg": "/kmics/static/media/kmicslogo.9e2be09c80f0ce645e44.jpg",
+    "index.html": "/kmics/index.html",
+    "main.7ad41ccc.css.map": "/kmics/static/css/main.7ad41ccc.css.map",
+    "main.9edd79fd.js.map": "/kmics/static/js/main.9edd79fd.js.map",
+    "787.bd9f348b.chunk.js.map": "/kmics/static/js/787.bd9f348b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ad41ccc.css",
+    "static/js/main.9edd79fd.js"
+  ]
+}
